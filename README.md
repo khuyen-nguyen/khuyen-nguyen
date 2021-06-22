@@ -46,9 +46,11 @@ Wunderlist API integration (acquired by Microsoft)
 
 ### Github stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=khuyen-nguyen&count_private=true&&show_icons=true&theme=radical&custom_title=Khuyen's+GitHub+Stats&show_icons=true" />
+<img align="center" src="https://github-readme-stats-eight-kappa-67.vercel.app
+/api?username=khuyen-nguyen&count_private=true&&show_icons=true&theme=radical&custom_title=Khuyen's+GitHub+Stats&show_icons=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuyen-nguyen&count_private=true" />
+<img align="center" src="https://github-readme-stats-eight-kappa-67.vercel.app
+/api/top-langs/?username=khuyen-nguyen&count_private=true" />
 
 <!--
 **khuyen-nguyen/khuyen-nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
